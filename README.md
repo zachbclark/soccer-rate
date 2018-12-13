@@ -1,8 +1,7 @@
 # soccer-rate
 
-## Responsibility
-
-## Overall design
+## Overview
+This project consumes data from https://apifootball.com/ and uses the match metrics to rate games based on how many interesting events occurred.
 
 ## Usage
 
